@@ -5,3 +5,5 @@
 /test
 /spec
 /static
+/templates
+/_pycache_
