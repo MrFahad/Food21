@@ -6,4 +6,5 @@
 /spec
 /static
 /templates
+/weights
 /_pycache_
