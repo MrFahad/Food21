@@ -1,7 +1,7 @@
 from io import BytesIO
 from typing import List
 
-from fastai import *
+#from fastai import *
 from fastai.vision import *
 from flask import Flask, jsonify, render_template, request
 
